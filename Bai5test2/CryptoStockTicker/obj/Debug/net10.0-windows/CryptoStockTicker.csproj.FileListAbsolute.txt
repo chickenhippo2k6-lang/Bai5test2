@@ -1,0 +1,17 @@
+C:\Users\TT\source\repos\CryptoStockTicker\CryptoStockTicker\obj\Debug\net10.0-windows\CryptoStockTicker.frmCryptoStockTicker.resources
+C:\Users\TT\source\repos\CryptoStockTicker\CryptoStockTicker\obj\Debug\net10.0-windows\CryptoStockTicker.csproj.GenerateResource.cache
+C:\Users\TT\source\repos\CryptoStockTicker\CryptoStockTicker\obj\Debug\net10.0-windows\CryptoStockTicker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TT\source\repos\CryptoStockTicker\CryptoStockTicker\obj\Debug\net10.0-windows\CryptoStockTicker.AssemblyInfoInputs.cache
+C:\Users\TT\source\repos\CryptoStockTicker\CryptoStockTicker\obj\Debug\net10.0-windows\CryptoStockTicker.AssemblyInfo.cs
+C:\Users\TT\source\repos\CryptoStockTicker\CryptoStockTicker\obj\Debug\net10.0-windows\CryptoStockTicker.csproj.CoreCompileInputs.cache
+C:\Users\TT\source\repos\CryptoStockTicker\CryptoStockTicker\bin\Debug\net10.0-windows\CryptoStockTicker.exe
+C:\Users\TT\source\repos\CryptoStockTicker\CryptoStockTicker\bin\Debug\net10.0-windows\CryptoStockTicker.deps.json
+C:\Users\TT\source\repos\CryptoStockTicker\CryptoStockTicker\bin\Debug\net10.0-windows\CryptoStockTicker.runtimeconfig.json
+C:\Users\TT\source\repos\CryptoStockTicker\CryptoStockTicker\bin\Debug\net10.0-windows\CryptoStockTicker.dll
+C:\Users\TT\source\repos\CryptoStockTicker\CryptoStockTicker\bin\Debug\net10.0-windows\CryptoStockTicker.pdb
+C:\Users\TT\source\repos\CryptoStockTicker\CryptoStockTicker\obj\Debug\net10.0-windows\CryptoStockTicker.dll
+C:\Users\TT\source\repos\CryptoStockTicker\CryptoStockTicker\obj\Debug\net10.0-windows\refint\CryptoStockTicker.dll
+C:\Users\TT\source\repos\CryptoStockTicker\CryptoStockTicker\obj\Debug\net10.0-windows\CryptoStockTicker.pdb
+C:\Users\TT\source\repos\CryptoStockTicker\CryptoStockTicker\obj\Debug\net10.0-windows\CryptoStockTicker.genruntimeconfig.cache
+C:\Users\TT\source\repos\CryptoStockTicker\CryptoStockTicker\obj\Debug\net10.0-windows\ref\CryptoStockTicker.dll
+C:\Users\TT\source\repos\CryptoStockTicker\CryptoStockTicker\obj\Debug\net10.0-windows\CryptoSt.8C6B5789.Up2Date
